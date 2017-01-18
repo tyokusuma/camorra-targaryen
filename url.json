@@ -1,13 +1,15 @@
 {
+  'url': [
+    'http://www.detik.com/',
+    'https://id.techinasia.com/',
+    'http://www.netmedia.co.id/',
+    'http://www.nationalgeographic.com/',
+    'https://www.codepolitan.com/',
+    'http://urbandigital.id/',
+    'http://hariangadget.com/',
+    'https://duniati.com',
+    'https://www.koinworks.com',
+    'https://www.mi.com/id'
+  ]
 
-  url = http://www.detik.com/;
-  url = https://id.techinasia.com/;
-  url = http://www.netmedia.co.id/;
-  url = http://www.nationalgeographic.com/;
-  url = https://www.codepolitan.com/;
-  url = http://urbandigital.id/;
-  url = http://hariangadget.com/;
-  url = https://duniati.com;
-  url = https://www.koinworks.com;
-  url = https://www.mi.com/id;
 }
