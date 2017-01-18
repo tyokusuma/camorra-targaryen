@@ -1,0 +1,24 @@
+{
+  "name": "scrapper",
+  "version": "0.1.0",
+  "description": "Web scrapper to JSON",
+  "main": "scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoforusrp/scrapper.git"
+  },
+  "keywords": [
+    "scrapper",
+    "to",
+    "json"
+  ],
+  "author": "Kris, Rafi, Aris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kristoforusrp/scrapper/issues"
+  },
+  "homepage": "https://github.com/kristoforusrp/scrapper#readme"
+}
